@@ -102,11 +102,11 @@ button:hover {
   }
   .content {
     border: 5px solid black;
-    height: 75%;
+    height: 74%;
     width: 90%;
   }
   #inputbox {
-    margin-bottom: 4vw;
+    margin-bottom: 6vw;
     color: #000000;
     font-size: 10vw;
     width: 90%;
