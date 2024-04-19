@@ -12,13 +12,13 @@ buttonArray.forEach((btn) => {
       display.value = string;
     } else if (e.target.innerHTML === "DEL") {
       string = string.slice(0, -1);
-      display.value=string
+      display.value = string;
     } else if (e.target.innerHTML === "AC") {
-      string = "";
+      string = ""
       display.value = string;
     } else {
       string += e.target.innerHTML;
       display.value = string;
     }
-  });
+  })
 });
