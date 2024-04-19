@@ -40,7 +40,7 @@
   text-shadow: 0px 0px 0px 8px pink;
 }
 #inputbox::placeholder {
-    font-size: 3vw;
+  font-size: 3vw;
   color: white;
 }
 
@@ -129,8 +129,11 @@ button:hover {
   .Del {
     font-size: 6vw;
   }
-  #inputbox::placeholder{
+  #inputbox::placeholder {
     color: #000000;
     font-size: 10vw;
+  }
+  button:hover {
+    color: white;
   }
 }
